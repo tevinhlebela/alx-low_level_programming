@@ -1,11 +1,9 @@
 #include <stdio.h>
 
-/**
- * This program prints the sizes of various data types.
- */
+/*This program prints the sizes of various data types*/
 int main(void)
 {
-/*These lines print out the size of the data types*/
+//This function prints out the datatypes
 printf("Size of a char: %lu byte(s)\n", sizeof(char));
 printf("Size of an int: %lu byte(s)\n", sizeof(int));
 printf("Size of a long int: %lu byte(s)\n", sizeof(long int));
