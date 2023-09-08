@@ -1,6 +1,8 @@
 #include <stdio.h>
 
-/*This program prints the sizes of various data types*/
+/**
+ * This program prints the sizes of various data types.
+ */
 int main(void)
 {
 /*These lines print out the size of the data types*/
