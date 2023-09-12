@@ -7,10 +7,8 @@
 
 int main(void)
 {
-
 printf("_putchar\n");
-
   
-/*return statement*/
+/* return statement */
 return (0);
 }
