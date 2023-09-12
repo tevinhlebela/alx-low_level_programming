@@ -5,6 +5,11 @@
   *Return: 0 when successful
   */
 
+/**
+ * main - entry point to the program
+ * Return 0 when successful
+ * @return Returns 0 to indicate successful execution.
+*/
 int main(void)
 {
 	_putchar('_');
